@@ -1,0 +1,10 @@
+{
+  "simulation": "demoAdvancedIk.DemoAdvanced",
+  "simulationId": "demoadvanced",
+  "start": 1644854585648,
+  "description": "",
+  "scenarios": ["DemoAdvanced"],
+  "assertions": [
+
+  ]
+}

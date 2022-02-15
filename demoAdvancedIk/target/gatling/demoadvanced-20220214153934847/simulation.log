@@ -1,0 +1,157 @@
+RUN	demoAdvancedIk.DemoAdvanced	demoadvanced	1644853174847	 	3.6.1
+USER	DemoAdvanced	START	1644853175752
+USER	DemoAdvanced	START	1644853175846
+REQUEST		request_0	1644853175846	1644853175859	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_0	1644853175777	1644853175802	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853175937
+REQUEST		request_0	1644853175938	1644853175951	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853176028
+REQUEST		request_0	1644853176029	1644853176040	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853176123
+REQUEST		request_0	1644853176123	1644853176134	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853176214
+REQUEST		request_5	1644853176215	1644853176229	OK	 
+USER	DemoAdvanced	START	1644853176306
+REQUEST		request_5	1644853176307	1644853176320	OK	 
+USER	DemoAdvanced	START	1644853176398
+REQUEST		request_0	1644853176398	1644853176410	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853176488
+REQUEST		request_0	1644853176489	1644853176494	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853176580
+REQUEST		request_0	1644853176580	1644853176585	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853176674
+REQUEST		request_0	1644853176674	1644853176678	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853176757
+REQUEST		request_5	1644853176758	1644853176765	OK	 
+USER	DemoAdvanced	START	1644853177756
+REQUEST		request_0	1644853177757	1644853177762	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_1	1644853177928	1644853177933	OK	 
+REQUEST		request_1	1644853177929	1644853177935	OK	 
+REQUEST		request_1	1644853177954	1644853177957	OK	 
+REQUEST		request_1	1644853178043	1644853178046	OK	 
+REQUEST		request_1	1644853178138	1644853178142	OK	 
+REQUEST		request_1	1644853178413	1644853178417	OK	 
+REQUEST		request_1	1644853178498	1644853178501	OK	 
+REQUEST		request_1	1644853178588	1644853178592	OK	 
+REQUEST		request_1	1644853178680	1644853178683	OK	 
+USER	DemoAdvanced	START	1644853178756
+REQUEST		request_0	1644853178757	1644853178762	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+USER	DemoAdvanced	START	1644853179757
+REQUEST		request_0	1644853179757	1644853179762	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_1	1644853179768	1644853179770	OK	 
+REQUEST		request_2	1644853179937	1644853179944	OK	 
+REQUEST		request_2	1644853179939	1644853179944	OK	 
+REQUEST		request_2	1644853179960	1644853179964	OK	 
+REQUEST		request_2	1644853180050	1644853180055	OK	 
+REQUEST		request_2	1644853180145	1644853180151	OK	 
+REQUEST		request_2	1644853180424	1644853180430	OK	 
+REQUEST		request_2	1644853180505	1644853180511	OK	 
+REQUEST		request_2	1644853180594	1644853180600	OK	 
+REQUEST		request_2	1644853180689	1644853180696	OK	 
+USER	DemoAdvanced	START	1644853180756
+REQUEST		request_0	1644853180756	1644853180765	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_1	1644853180766	1644853180769	OK	 
+REQUEST		request_3	1644853180948	1644853180953	OK	 
+REQUEST		request_3	1644853180948	1644853180954	OK	 
+REQUEST		request_3	1644853180966	1644853180970	OK	 
+REQUEST		request_3	1644853181058	1644853181064	OK	 
+REQUEST		request_3	1644853181152	1644853181157	OK	 
+REQUEST		request_6	1644853181259	1644853181267	OK	 
+REQUEST		request_6	1644853181324	1644853181331	OK	 
+REQUEST		request_3	1644853181434	1644853181439	OK	 
+REQUEST		request_3	1644853181514	1644853181519	OK	 
+REQUEST		request_3	1644853181603	1644853181609	OK	 
+REQUEST		request_3	1644853181701	1644853181707	OK	 
+USER	DemoAdvanced	START	1644853181756
+REQUEST		request_0	1644853181756	1644853181763	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_1	1644853181767	1644853181770	OK	 
+REQUEST		request_2	1644853181775	1644853181780	OK	 
+REQUEST		request_6	1644853181773	1644853181780	OK	 
+USER	DemoAdvanced	START	1644853182756
+REQUEST		request_5	1644853182757	1644853182765	OK	 
+REQUEST		request_1	1644853182773	1644853182778	OK	 
+REQUEST		request_2	1644853182773	1644853182781	OK	 
+REQUEST		request_3	1644853182787	1644853182792	OK	 
+USER	DemoAdvanced	START	1644853183758
+REQUEST		request_0	1644853183758	1644853183763	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_1	1644853183768	1644853183770	OK	 
+REQUEST		request_2	1644853183773	1644853183777	OK	 
+REQUEST		request_3	1644853183787	1644853183792	OK	 
+USER	DemoAdvanced	START	1644853184757
+REQUEST		request_0	1644853184757	1644853184765	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_3	1644853184780	1644853184784	OK	 
+REQUEST		request_2	1644853184780	1644853184785	OK	 
+REQUEST		request_4	1644853184959	1644853184965	OK	 
+REQUEST		request_4	1644853184959	1644853184966	OK	 
+REQUEST		request_4	1644853184972	1644853184976	OK	 
+REQUEST		request_4 Redirect 1	1644853184967	1644853184979	OK	 
+REQUEST		request_4 Redirect 1	1644853184967	1644853184979	OK	 
+REQUEST		request_4 Redirect 1	1644853184976	1644853184985	OK	 
+REQUEST		request_4	1644853185067	1644853185072	OK	 
+REQUEST		request_4 Redirect 1	1644853185072	1644853185085	OK	 
+REQUEST		request_4	1644853185159	1644853185166	OK	 
+REQUEST		request_4 Redirect 1	1644853185166	1644853185174	OK	 
+REQUEST		request_4	1644853185444	1644853185449	OK	 
+REQUEST		request_4 Redirect 1	1644853185449	1644853185461	OK	 
+REQUEST		request_4	1644853185523	1644853185527	OK	 
+REQUEST		request_4 Redirect 1	1644853185528	1644853185537	OK	 
+REQUEST		request_4	1644853185612	1644853185617	OK	 
+REQUEST		request_4 Redirect 1	1644853185618	1644853185630	OK	 
+REQUEST		request_4	1644853185711	1644853185716	OK	 
+REQUEST		request_4 Redirect 1	1644853185716	1644853185729	OK	 
+REQUEST		request_1	1644853185769	1644853185774	OK	 
+REQUEST		request_2	1644853185775	1644853185780	OK	 
+REQUEST		request_3	1644853185788	1644853185793	OK	 
+REQUEST		request_5	1644853185985	1644853185992	OK	 
+REQUEST		request_0	1644853185985	1644853185994	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_5	1644853185987	1644853185996	OK	 
+REQUEST		request_5	1644853186088	1644853186093	OK	 
+REQUEST		request_0	1644853186178	1644853186181	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_7	1644853186268	1644853186275	OK	 
+REQUEST		request_7	1644853186333	1644853186345	OK	 
+REQUEST		request_0	1644853186463	1644853186470	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_5	1644853186540	1644853186546	OK	 
+REQUEST		request_0	1644853186632	1644853186635	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_5	1644853186735	1644853186741	OK	 
+REQUEST		request_1	1644853186770	1644853186774	OK	 
+REQUEST		request_3	1644853186784	1644853186789	OK	 
+REQUEST		request_7	1644853186781	1644853186794	OK	 
+REQUEST		request_4	1644853186798	1644853186806	OK	 
+REQUEST		request_4 Redirect 1	1644853186806	1644853186816	OK	 
+REQUEST		request_6	1644853187770	1644853187775	OK	 
+REQUEST		request_2	1644853187776	1644853187780	OK	 
+REQUEST		request_4	1644853187798	1644853187803	OK	 
+REQUEST		request_0	1644853187817	1644853187820	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_4 Redirect 1	1644853187803	1644853187821	OK	 
+REQUEST		request_1	1644853187998	1644853188001	OK	 
+REQUEST		request_1	1644853188188	1644853188191	OK	 
+REQUEST		request_1	1644853188473	1644853188475	OK	 
+REQUEST		request_1	1644853188637	1644853188641	OK	 
+REQUEST		request_2	1644853188778	1644853188783	OK	 
+REQUEST		request_3	1644853188782	1644853188791	OK	 
+REQUEST		request_4	1644853188786	1644853188795	OK	 
+REQUEST		request_4 Redirect 1	1644853188795	1644853188804	OK	 
+REQUEST		request_0	1644853188825	1644853188828	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_3	1644853189789	1644853189795	OK	 
+REQUEST		request_4	1644853189798	1644853189801	OK	 
+REQUEST		request_0	1644853189806	1644853189809	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_4 Redirect 1	1644853189801	1644853189813	OK	 
+REQUEST		request_1	1644853189822	1644853189825	OK	 
+REQUEST		request_2	1644853190006	1644853190011	OK	 
+REQUEST		request_2	1644853190195	1644853190200	OK	 
+REQUEST		request_2	1644853190478	1644853190483	OK	 
+REQUEST		request_2	1644853190642	1644853190646	OK	 
+REQUEST		request_4	1644853190795	1644853190800	OK	 
+REQUEST		request_4 Redirect 1	1644853190800	1644853190808	OK	 
+REQUEST		request_0	1644853190815	1644853190817	KO	xpath((//h2[contains(text(),'Welcome')],Map())).find.exists preparation crashed: Could not parse response into a DOM Document: n.s.s.t.XPathException: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 3; The markup in the document preceding the root element must be well-formed.
+REQUEST		request_1	1644853190831	1644853190835	OK	 
+REQUEST		request_6	1644853191000	1644853191008	OK	 
+REQUEST		request_6	1644853190998	1644853191008	OK	 
+REQUEST		request_3	1644853191015	1644853191019	OK	 
+REQUEST		request_6	1644853191099	1644853191106	OK	 
+REQUEST		request_3	1644853191206	1644853191211	OK	 
+REQUEST		request_3	1644853191486	1644853191491	OK	 
+REQUEST		request_6	1644853191548	1644853191556	OK	 
+REQUEST		request_3	1644853191648	1644853191653	OK	 
+REQUEST		request_6	1644853191746	1644853191753	OK	 
+REQUEST		request_0	1644853191810	1644853191812	KO	
