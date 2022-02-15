@@ -19,7 +19,7 @@ pipeline {
     stages {
         stage("Gatling run") {
             steps {
-                sh "cd <your_local_path>/demoAdvancedIk; mvn gatling:test -Dgatling.simulationClass=demoAdvancedIk.DemoAdvanced -Dusers=$users -Dduration=$duration"
+                sh "cd your_local_path/demoAdvancedIk; mvn gatling:test -Dgatling.simulationClass=demoAdvancedIk.DemoAdvanced -Dusers=$users -Dduration=$duration"
             }
         }
     }
