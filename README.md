@@ -25,3 +25,9 @@ pipeline {
     }
 }
 </code></pre>
+
+Generate Maven Archetype:
+
+<pre><code>
+mvn archetype:generate -DarchetypeGroupId=io.gatling.highcharts -DarchetypeArtifactId=gatling-highcharts-maven-archetype
+</code></pre>
