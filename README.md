@@ -4,10 +4,13 @@ To run the script from command line:
 
 cd <your_local_path>/demoAdvancedIk
 
-mvn gatling:test -Dgatling.simulationClass=demoAdvancedIk.DemoAdvanced -Dusers=1 -Dduration=60
+<pre><code>mvn gatling:test -Dgatling.simulationClass=demoAdvancedIk.DemoAdvanced -Dusers=1 -Dduration=60
+</code></pre>
+
 
 To run the script from the Jenkins pipeline:
 
+<pre><code>
 pipeline {
     agent any
     tools {
@@ -21,3 +24,4 @@ pipeline {
         }
     }
 }
+</code></pre>
